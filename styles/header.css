@@ -1,0 +1,28 @@
+.header {
+  max-width: 100%;
+  padding: 20px 0;
+}
+.header__content {
+  max-width: 1140px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+.header__content-nav {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.header__content-nav-button {
+  border: none;
+  background-color: transparent;
+  color: white;
+}
+.header__content-nav-button:first-child {
+  padding-top: 10px;
+}
+.header__content-nav-button:last-child {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
