@@ -1,0 +1,35 @@
+.hero-sectoins__title {
+  font-weight: 200;
+  font-size: 72px;
+  line-height: 104%;
+  color: #fff;
+  font-family: "Manrope", sans-serif;
+  max-width: 730px;
+}
+.hero-sections {
+  margin-top: 180px;
+  max-width: 100%;
+}
+.hero-sections__content {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.hero-sections__content-button {
+  border: 1px solid #fff;
+  padding: 17px 25px;
+  background-color: transparent;
+  color: white;
+}
+.hero-sections__content-button-wrapper {
+  margin-top: 63px;
+  display: flex;
+  gap: 60px;
+}
+.hero-sections__img {
+  background-image: url(../imgs/div.png);
+  width: 100%;
+  padding: 318px 0;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
